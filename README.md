@@ -1,16 +1,23 @@
-## Hi there 👋
+### Oi, eu sou o Wyatt 👋
 
-<!--
-**wyatt-sperber/wyatt-sperber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software na PUC Minas** e bacharel em **Ecologia pela UFRJ**.
+Comecei a programar na pesquisa, tratando bases de dados e automatizando análises, e hoje trabalho com **dados, automação e desenvolvimento web**.
 
-Here are some ideas to get you started:
+- 💼 Na **2R Tecnologia e Inovações Ambientais**, trato e analiso dados do setor de mineração com **Python e R** e desenvolvo sites com **JavaScript, HTML e CSS**
+- 🌱 Aprendendo agora: **SQL, Git, React e IA aplicada**
+- 🎯 Buscando estágio em **Dados, Automação ou Desenvolvimento de Software**
+- 📍 Belo Horizonte, MG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ferramentas
+
+![Ferramentas](https://skillicons.dev/icons?i=python,r,js,html,css,java,git)
+
+Python · R · JavaScript · HTML · CSS · Java · Power BI · Excel · QGIS
+
+#### Projetos
+
+🚧 Meus primeiros projetos públicos com dados brasileiros estão a caminho. Acompanhe por aqui!
+
+#### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wyatt--sperber-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-sperber)
