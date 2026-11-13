@@ -3,7 +3,6 @@
 Estudante de **Engenharia de Software na PUC Minas** e bacharel em **Ecologia pela UFRJ**.
 Comecei a programar na pesquisa, tratando bases de dados e automatizando análises, e hoje trabalho com **dados, automação e desenvolvimento web**.
 
-- 💼 Na **2R Tecnologia e Inovações Ambientais**, trato e analiso dados do setor de mineração com **Python e R** e desenvolvo sites com **JavaScript, HTML e CSS**
 - 🌱 Aprendendo agora: **SQL, Git, React e IA aplicada**
 - 🎯 Buscando estágio em **Dados, Automação ou Desenvolvimento de Software**
 - 📍 Belo Horizonte, MG
